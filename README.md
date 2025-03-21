@@ -18,5 +18,6 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=haribhatta15&show_icons=true&locale=en&layout=compact" alt="haribhatta15" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=haribhatta15&show_icons=true&theme=default&include_all_commits=true&count_private=true" alt="haribhatta15" /></p>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=haribhatta15" alt="GitHub Streak" /></a>
 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=haribhatta15&show_icons=true&theme=default&include_all_commits=true&count_private=true" alt="streak" /></p>
